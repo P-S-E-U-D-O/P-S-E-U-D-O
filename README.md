@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P-S-E-U-D-O
+- 👋 Hi, I’m @pSEUDO
 - 👀 I’m new to Programming world
 - 🌱 I’m currently learning C++
 - 📫 How to reach me shivamgangwar29@gmail.com
