@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Gangwar
-I’m have good knowledge of C++,C,Python, Object Oriented programming,
+I have good knowledge of C++,C,Python, Object Oriented programming,
 Machine learning Matlab,Simulink.
 How to reach me shivamgangwar29@gmail.com
 
